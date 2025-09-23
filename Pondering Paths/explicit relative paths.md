@@ -3,8 +3,7 @@ OBJECTIVE:TO USE RELATIVE AND ABSOLUTE PATHS TO ACCESS FILES.
 ## MY SOLVE
 **Flag** `pwn.college{goGFbUVMo5RcOkELPv7QtRLDBQZ.QXwUTN0wSN5AzNzEzW}`\
 I accessed the run directory within challenge diectory within the root using relative path(./_) or absolute path since the current directory is the root directory.
-```
-bash
+```bash
 hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
 Correct!!!
 ./challenge/run is a relative path, invoked from the right directory!
