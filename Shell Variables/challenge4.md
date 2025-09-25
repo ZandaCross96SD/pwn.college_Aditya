@@ -21,7 +21,7 @@ You've set the COLLEGE variable to the proper value!
 ```
 
 ## What I learned
-explain what you learned
+I learned about export command and how to use it to make local variable values global in shell and also learned about sh and what it is. 
 
 ## References 
 None.
